@@ -26,18 +26,31 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 **To measure IL**
 
+<img width="1052" height="351" alt="image" src="https://github.com/user-attachments/assets/59b2ce69-2e87-4c7a-b2f2-16a03feb2cbe" />
+
 
 **To measure RTh or RN**
+
+<img width="1087" height="398" alt="image" src="https://github.com/user-attachments/assets/5ca2c7b1-811e-40ee-be5e-4901d9118357" />
+
 
 
 
 **To measure IN or Isc**
 
+<img width="1030" height="469" alt="image" src="https://github.com/user-attachments/assets/9589cd1f-80ba-417f-8928-895a4dd22dc5" />
+
  
 **Thevenin’s equivalent circuit**
 
+<img width="764" height="444" alt="image" src="https://github.com/user-attachments/assets/e9be6b88-a0a0-4821-91a2-b0078f0abb97" />
+
+
 
 **Norton’s equivalent circuit**
+
+<img width="690" height="453" alt="image" src="https://github.com/user-attachments/assets/2ac2558d-2390-4162-bf09-517e8fcc8ab2" />
+
 
 
 **PROCEDURE:**
@@ -71,22 +84,26 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 12.	Theoretically verify the Norton’s theorem.
 
 **TABULAR COLUMN: 1**
-To measure I L
+To measure IL
 
-Vi (volts)	IL (amps)
+<img width="646" height="286" alt="image" src="https://github.com/user-attachments/assets/e3ae7835-6ca2-4e99-880c-27b15150962e" />
+
+
+
 
 **TABULAR COLUMN:2**
 
 To measure RTh or RN
 
-Vi (volts)	RTh (Ω)
+<img width="678" height="291" alt="image" src="https://github.com/user-attachments/assets/a834c2ef-da99-4574-908f-c3749ec57031" />
 
 
 **TABULAR COLUMN:3**
 
 To measure IN or Isc
 
-Vi (volts)	IN (amps)
+<img width="610" height="340" alt="image" src="https://github.com/user-attachments/assets/3c479756-c2de-49ad-ab8c-d658343bd854" />
+
 	
 **MODEL CALCULATION:**
 
@@ -97,6 +114,9 @@ Practical value of IL (from tabulation 1) =2.3mA
 IL = IN * RN / ( RN+ RL ) = 2.43mA
 
 Theoretical calculation of IL ,IN and RTh(RN) for the given circuit:
+
+<img width="486" height="595" alt="image" src="https://github.com/user-attachments/assets/1bf72db7-8321-4387-bfa0-c6d82d5739ca" />
+
  
 
 
